@@ -1,0 +1,119 @@
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
+
+# me
+
+*Multidomain Researcher & Christ-Centered Creator*
+
+## 🌱 About Me
+I’m Nai,18 years old (2025), 25% Japanese, and a lifelong learner since age 6.  
+My goal is to remain **humble and kind**, no matter how far I go.  
+
+- Completed **3012+ projects** (code & design) — not counting experiments and messy works.  
+- Built my own **Linux OS** and extensive works in **C, Bash, HTML, Assembly, C++, JS, CSS**.  
+- Recognized with titles like *Elite, Sir, Prof, Teacher, Idol, Mentor, Master*.  
+- **Languages**: Filipino, English, Basic Korean, Nihongo  
+- **Core Value**: Christ-centered at heart.  
+
+---
+
+## 🎯 Mission
+To help advance God’s Kingdom by:  
+- Creating and donating to charity  
+- Making opportunities for people  
+- Making learning easy  
+
+---
+
+## 👁️ Vision
+1. Spread God’s Word  
+2. Build:  
+   - A **school** (faith + knowledge)  
+   - A **technology hub**  
+   - A **research lab**  
+3. Empower people through giving and mentoring  
+4. Contribute to **better urban planning**  
+5. Create a **balanced entertainment business**  
+
+---
+
+## 🛠️ Domains of Mastery
+
+### 1. Technology & Engineering  
+- Software & Programming (I/O, Embedded Systems, Web, Low-Level, Linux, OS, DE, Automation)  
+- Game & Interactive Development  
+
+### 2. Creative Arts & Media  
+- Visual Arts & Design (Graphic, 2D/3D, Modeling, Voxel/Pixel, Layout, UX/UI)  
+- Media Production (Photography, Videography, Cinematography, Filmatography, Video/Audio Editing, Sound Design)  
+- Performance & Storytelling (Acting, Singing, Motion, Screen/Script, Storytelling, Music, Poem, Letter, Translation, Framework/System)  
+
+### 3. Business & Marketing  
+- Entrepreneurship, Branding, Identity  
+
+### 4. Research & Communication  
+- Research, Criticism, Panel Discussions, Talks, Presentations, Public Speaking, Hosting  
+
+---
+
+## 🌸 Core Identity
+> *“I am Nai. I am do not like defined by titles and for-must by service.  
+> My goal is to remain humble and kind, using my God-given gifts across technology, arts, business, and research to create opportunities, inspire others, and advance the Kingdom.”*
+
+---
+
+## 📚 Research Works
+
+**Legend**:  
+- [^] Available  
+- [ⁿ] Correlation  
+- [*] Doing  
+
+**Completed:** 9 / **Total:** 33  
+
+---
+
+### ✅ Completed Research (IDs)
+
+| ID | Title / Description                                              |
+|----|------------------------------------------------------------------|
+| 1  | MII (Modern Iteration of Intelligence - the 5-domain table)      |
+| 2  | MMI (Modern Measurement of Intelligence - uses MII)              |
+| 3  | Study of creative vs logical brain function                      |
+| 4  | Study of emotional or “feeling” intelligence                     |
+| 5  | Study of practical intelligence (real-world logic, adaptation)   |
+| 6  | Study of how modernization affects cognition (digital age brain) |
+| 7  | Individualized intelligence profiling (beyond one-score IQ)      |
+| 8  | Mimicry AI                                                       |
+| 9  | Digital Omni                                                     |
+
+---
+
+### 📖 Ongoing & Planned Research
+
+| #  | Title / Description                                                                 | Status |
+|----|-------------------------------------------------------------------------------------|--------|
+| 10 | NMG (New Mathematical Generative Notation)                                          | [*]    |
+| 11 | Cognitive math mapping (how the brain thinks in symbols)                            | ¹⁰     |
+| 12 | Visual-based mathematical reasoning                                                 | ¹⁰     |
+| 13 | Simplified syntax for mental math fluency                                           | ¹⁰     |
+| 14 | Study of math accessibility via visual/modular forms                                | ¹⁰     |
+| 15 | Comparative study of traditional notation vs NMG in learning speed                  | ¹⁰     |
+| 16 | Automation of Digitalize (DO)                                                       |        |
+| 17 | Accessible Programming NUM                                                          | [^]    |
+| 18 | TRT (The Time Revine Theorem)                                                       | [*]    |
+| 19 | Humanize Programming: Code with English                                             | [^]    |
+| 20 | Perception of time (psychological time)                                             | ¹⁸     |
+| 21 | Memory-based time distortion                                                        | ¹⁸     |
+| 22 | Emotional weight and time                                                           | ¹⁸     |
+| 23 | Time relativity in action planning                                                  | ¹⁸     |
+| 24 | Chronological modeling for subjective timelines                                     | ¹⁸     |
+| 25 | Impact of Jargon Usage on Learning Outcomes                                         | [^]    |
+| 26 | Quantitative Analysis of UI Interaction Speeds                                      | [^]    |
+| 27 | Mind-Friendly Syntax                                                                | [^]    |
+| 28 | Digital Epistemology                                                                |        |
+| 29 | Quantified Thought                                                                  |        |
+| 30 | Jargon Barrier Index (JBI)                                                          |        |
+| 31 | Subjective Time Engine                                                              |        |
+| 32 | Error as Insight                                                                    |        |
+| 33 | Re-work Language:ISE                                                                | [^]    |
