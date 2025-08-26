@@ -37,10 +37,10 @@ To help advance God’s Kingdom by:
 
 ---
 
-## 🛠️ Domains of Mastery
+## Domains 
 
 ### 1. Technology & Engineering  
-- Software & Programming (I/O, Embedded Systems, Web, Low-Level, Linux, OS, DE, Automation)  
+- Software & Programming (I/O.. Arduino Systems, Web, Low-Level, Linux, OS, DE, Automation)  
 - Game & Interactive Development  
 
 ### 2. Creative Arts & Media  
