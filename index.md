@@ -1,7 +1,7 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 
-*Multidomain Researcher & Christ-Centered Creator*
+*Polyset Researcher & Christ-Centered Creator*
 
  • [KR](https://actwu.github.io/me/kr)
  
@@ -10,7 +10,9 @@
 I’m Nai,18 years old (2025), 25% Japanese, "25%" Korean and a lifelong learner since age 6.  
 My goal is to remain **humble and kind**, no matter how far I go.  
 
-- Completed **3012+ projects** (code & design) ...not counting experiments and messy works.  
+- Completed **3088+ projects** (code & design) ...not counting experiments and messy works.
+- If we are talking about all contribution.. i estimate 4060+ contribution on tech
+  ... maybe 12,000+ in my fields i venture
 - Built my own **Linux OS** and extensive works in **C, Bash, HTML, Assembly, C++, JS, CSS**.  
 - Has been called with titles like *Elite, Sir, Prof, Teacher, Idol, Mentor, Boss, Mayor, Master*.  
 - **Languages**: Filipino, English, Basic Korean, Basic Nihongo  
